@@ -5,8 +5,10 @@ pink
 organge
 blue
 green
+indigo
 unicorn
 yellow
 red
 these are the colors of the rainbow and
 unicorn
+added indigo
