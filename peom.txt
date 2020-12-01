@@ -5,6 +5,8 @@ pink
 organge
 blue
 green
+unicorn
 yellow
 red
-these are the colors of the rainbow
+these are the colors of the rainbow and
+unicorn
