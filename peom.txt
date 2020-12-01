@@ -13,3 +13,5 @@ red
 these are the colors of the rainbow and
 unicorn
 added indigo
+
+Added Recycle
